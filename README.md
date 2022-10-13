@@ -2,12 +2,12 @@
 
 ## FrontEnd
 
-Select the frontend branch
+Select the frontend branch [click here](https://github.com/SyaugiSA/SyaugiSA-BI/tree/frontend)
 
 ----------
 
 ## BackEnd
-Select the backend branch
+Select the backend branch [click here](https://github.com/SyaugiSA/SyaugiSA-BI/tree/backend)
 
 ----------
 
